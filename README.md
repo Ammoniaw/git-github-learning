@@ -7,4 +7,5 @@
 - [第 1 课：第一次提交与公开发布](notes/01-first-commit.md)
 - [第 2 课：暂存区](notes/02-staging-area.md)
 - [第 3 课：忽略和历史](notes/03-ignore-and-history.md)
+- [第 4 课：分支](notes/04-branches.md)
 
