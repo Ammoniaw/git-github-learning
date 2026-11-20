@@ -5,3 +5,5 @@
 ## 学习笔记
 
 - [第 1 课：第一次提交与公开发布](notes/01-first-commit.md)
+- [第 2 课：暂存区](notes/02-staging-area.md)
+
