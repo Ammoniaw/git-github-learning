@@ -10,4 +10,4 @@
 - [第 4 课：分支](notes/04-branches.md)
 - [第 5 课：快进合并与合并提交](notes/05-merging.md)
 - [第 6 课：解决合并冲突](notes/06-merge-conflicts.md)
-- [第 7 课：远程仓库](notes/37-remotes.md)
+- [第 7 课：远程仓库](notes/07-remotes.md)
